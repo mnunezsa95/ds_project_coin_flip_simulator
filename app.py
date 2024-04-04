@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas
 
 st.header("Tossing a Coin")
 
